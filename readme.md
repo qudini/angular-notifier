@@ -1,0 +1,1 @@
+Notifier Directive for AngularJS 
